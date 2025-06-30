@@ -1,0 +1,9 @@
+[submodule "pvpoke"]
+	path = pvpoke
+	url = https://github.com/pvpoke/pvpoke.git
+[submodule "dialgadex"]
+	path = dialgadex
+	url = https://github.com/mgrann03/dialgadex.git
+[submodule "pokemon-resources"]
+	path = pokemon-resources
+	url = https://github.com/mgrann03/pokemon-resources.git
