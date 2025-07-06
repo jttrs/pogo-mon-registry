@@ -1,0 +1,53 @@
+{
+  "name": "pokemon-go-comprehensive-database",
+  "version": "1.0.0",
+  "description": "A comprehensive Pokemon GO database with PvP rankings, PvE tiers, and personal collection management",
+  "main": "src/PokemonGoApp.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --live",
+    "build": "echo 'No build step required - pure client-side JavaScript'",
+    "test": "echo 'Tests not implemented yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/pogo-mon-registry.git"
+  },
+  "keywords": [
+    "pokemon-go",
+    "pvp",
+    "pve",
+    "database",
+    "pokegenie",
+    "pvpoke",
+    "dialgadex",
+    "pokemon",
+    "rankings",
+    "tiers",
+    "collection",
+    "sqlite",
+    "offline"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/pogo-mon-registry/issues"
+  },
+  "homepage": "https://github.com/yourusername/pogo-mon-registry#readme",
+  "dependencies": {
+    "sql.js": "^1.8.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "> 1%",
+    "last 2 versions"
+  ]
+} 
